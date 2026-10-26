@@ -1,9 +1,9 @@
-# DAT 260 – Emerging Technologies and Big Data
+# CS370
 
 **Ahmed Ahmed**  
 Southern New Hampshire University  
 
-This repository contains selected coursework from DAT 260. The projects focus on reinforcement learning, deep Q-networks, and practical applications of machine learning concepts.
+This repository contains selected coursework from CS-370. The projects focus on reinforcement learning, deep Q-networks, and practical applications of machine learning concepts.
 
 ---
 
