@@ -1,7 +1,6 @@
 # DAT 260 – Emerging Technologies and Big Data
 
 **Ahmed Ahmed**  
-
 Southern New Hampshire University  
 
 This repository contains selected coursework from DAT 260. The projects focus on reinforcement learning, deep Q-networks, and practical applications of machine learning concepts.
@@ -43,4 +42,36 @@ After training, the agent successfully finds a path from the top-left corner to 
 
 ---
 
-## How to View the 
+## How to View the Work
+
+Both files are Jupyter Notebook exports saved as HTML. You can open them directly in any modern web browser:
+
+1. Download the `.html` file
+2. Open it with Chrome, Firefox, Edge, or Safari
+3. No additional software installation is required
+
+---
+
+## Skills Demonstrated
+
+- Reinforcement Learning (Q-Learning and Deep Q-Networks)
+- Neural network design for value function approximation
+- Hyperparameter tuning and experimental analysis
+- Experience replay and target networks
+- Training monitoring and result visualization
+- Clear technical documentation and analysis
+
+---
+
+## Future Improvements
+
+- Add the original `.ipynb` source notebooks for easier code inspection
+- Include training curves and performance comparison plots
+- Expand the Treasure Hunt environment with additional difficulty levels
+- Document lessons learned from each hyperparameter experiment more formally
+
+---
+
+## Contact
+
+For questions about this coursework, please reach out through the contact information on my GitHub profile.
